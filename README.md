@@ -42,4 +42,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [Visit the Repository ... HERE!](https://github.com/sirwettering/react-portfolio)
 
-# react-portfolio
+## Portfolio URL:
+
+[Visit My Portfolio ... HERE!](https://sirwettering.github.io/react-portfolio/)
