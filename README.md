@@ -44,4 +44,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Portfolio URL:
 
-[Visit My Portfolio ... HERE!](https://sirwettering.github.io/react-portfolio/)
+[Visit My Portfolio ... HERE!](https://sharp-lovelace-652c79.netlify.app/)
